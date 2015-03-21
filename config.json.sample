@@ -1,0 +1,38 @@
+{
+  "testbot1": {
+	"server": "10.0.0.1",
+	"nick": "testbot1",
+        "realname": "testbot1",
+	"user": "testbot1",
+	"password": "pa$$word",
+	"port": 6697,
+	"secure": true,
+        "email": "testbot1@test.test",
+	"nickserv": "nickserv",
+	"channels": [ "#idlebot" ],
+        "idlemaster": "IdleMaster",
+        "idlepassword": "pa$$word",
+        "idlecharacter": "testbot1",
+        "idlechannel": "#idlebot",
+        "master": "CHANGEME",
+        "enabled": true
+  },
+  "testbot2": {
+        "server": "10.0.0.1",
+        "nick": "testbot2",
+        "realname": "testbot2",
+        "user": "testbot2",
+        "password": "b847ab1108f7",
+        "port": 6697,
+        "secure": true,
+        "email": "testbot2@test.test",
+        "nickserv": "nickserv",
+        "channels": [ "#idlebot" ],
+        "idlemaster": "IdleMaster",
+        "idlepassword": "pa$$word",
+        "idlecharacter": "testbot2",
+        "idlechannel": "#idlebot",
+        "master": "CHANGEME",
+        "enabled": true
+  }
+}
